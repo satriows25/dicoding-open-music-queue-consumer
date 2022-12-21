@@ -1,4 +1,4 @@
-# Notes App Queue Consumer
+# Open Music Queue Consumer
 
 Proyek submission message broker kelas [Belajar Fundamental Aplikasi Back-End](https://www.dicoding.com/academies/271) di [Dicoding Indonesia](https://www.dicoding.com).
 
